@@ -1,0 +1,31 @@
+{
+  "article": {
+    "id": "003",
+    "title": "My Startup Is Just a Claude Wrapper, but It’s a Free Claude Wrapper",
+    "authors": [
+      "Neruthes",
+      "ChatGPT (OpenAI)"
+    ],
+    "authors_simple": "Neruthes, et al.",
+    "date": "2025-07-14",
+    "license": "Public Domain",
+    "abstract": "In 2025's AI frenzy, few brag sheets boast more bravado than ``We're a Claude wrapper.''\nAt conferences, hackathons, and booster-pitch dinners, someone inevitably leads with:\n``We didn't train a model—we integrated Claude's API in 30 minutes, wrapped a lightweight UI, and voilà!''\nCongratulations: your startup is officially ``innovative''—as long as flimsy UI counts as disruptive.\n",
+    "month": "08",
+    "index": 3
+  },
+  "issue": {
+    "year": "2025",
+    "issue": "202508",
+    "sn": 1,
+    "editors": [
+      "Neruthes"
+    ]
+  },
+  "map": {
+    "001": "1",
+    "002": "2",
+    "003": "3",
+    "004": "4",
+    "qwencoder": "5"
+  }
+}

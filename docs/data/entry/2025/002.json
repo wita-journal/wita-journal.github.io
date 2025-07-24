@@ -1,0 +1,30 @@
+{
+  "article": {
+    "id": "002",
+    "title": "WITA Manuscript Submission Guide",
+    "authors": [
+      "Neruthes (WITA Editor)"
+    ],
+    "authors_simple": "Neruthes",
+    "date": "2025-07-14",
+    "license": "CC BY-ND 4.0",
+    "abstract": "Like most journals, Weight in the Attention (WITA) handles manuscript submissions.\nA rare characteristic of WITA is that the submission process is based on Git, GitHub, and pull request.\nThis guide offers a comprehensive guide for authors in good faith of establishing an efficient manuscript acceptance workflow.\nKey takeaway—if you would like to submit an already published article, just open an issue and include URL to your article.\n",
+    "month": "08",
+    "index": 2
+  },
+  "issue": {
+    "year": "2025",
+    "issue": "202508",
+    "sn": 1,
+    "editors": [
+      "Neruthes"
+    ]
+  },
+  "map": {
+    "001": "1",
+    "002": "2",
+    "003": "3",
+    "004": "4",
+    "qwencoder": "5"
+  }
+}
