@@ -1,0 +1,33 @@
+{
+  "article": {
+    "id": "price",
+    "title": "The Opaque Ledger: Navigating Pricing Transparency in Large Language Models",
+    "authors": [
+      "Neruthes",
+      "Gemini (Google)"
+    ],
+    "authors_simple": "Neruthes, et al.",
+    "date": "2025-07-26",
+    "license": "Public Domain",
+    "abstract": "The rapid proliferation and adoption of Large Language Models (LLMs) have ushered in unprecedented capabilities, yet simultaneously exposed a significant challenge: the lack of clear and consistent pricing transparency. As LLMs become integral to various industries, understanding their true cost—beyond simple per-token rates—is crucial for effective budgeting, strategic planning, and fostering trust. This review examines the current state of LLM pricing transparency, drawing on recent academic discussions that highlight its complexities and implications.\n",
+    "month": "08",
+    "index": 6
+  },
+  "issue": {
+    "year": "2025",
+    "issue": "202508",
+    "sn": 1,
+    "editors": [
+      "Neruthes"
+    ]
+  },
+  "map": {
+    "001": "1",
+    "002": "2",
+    "003": "3",
+    "004": "4",
+    "qwencoder": "5",
+    "price": "6",
+    "arxivdigest": "7"
+  }
+}
